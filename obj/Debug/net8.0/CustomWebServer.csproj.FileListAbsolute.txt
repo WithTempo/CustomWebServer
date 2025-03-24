@@ -1,0 +1,15 @@
+C:\Users\X\Repos\backtobasics\CustomWebServer\bin\Debug\net8.0\CustomWebServer.exe
+C:\Users\X\Repos\backtobasics\CustomWebServer\bin\Debug\net8.0\CustomWebServer.deps.json
+C:\Users\X\Repos\backtobasics\CustomWebServer\bin\Debug\net8.0\CustomWebServer.runtimeconfig.json
+C:\Users\X\Repos\backtobasics\CustomWebServer\bin\Debug\net8.0\CustomWebServer.dll
+C:\Users\X\Repos\backtobasics\CustomWebServer\bin\Debug\net8.0\CustomWebServer.pdb
+C:\Users\X\Repos\backtobasics\CustomWebServer\obj\Debug\net8.0\CustomWebServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\X\Repos\backtobasics\CustomWebServer\obj\Debug\net8.0\CustomWebServer.AssemblyInfoInputs.cache
+C:\Users\X\Repos\backtobasics\CustomWebServer\obj\Debug\net8.0\CustomWebServer.AssemblyInfo.cs
+C:\Users\X\Repos\backtobasics\CustomWebServer\obj\Debug\net8.0\CustomWebServer.csproj.CoreCompileInputs.cache
+C:\Users\X\Repos\backtobasics\CustomWebServer\obj\Debug\net8.0\CustomWebServer.dll
+C:\Users\X\Repos\backtobasics\CustomWebServer\obj\Debug\net8.0\refint\CustomWebServer.dll
+C:\Users\X\Repos\backtobasics\CustomWebServer\obj\Debug\net8.0\CustomWebServer.pdb
+C:\Users\X\Repos\backtobasics\CustomWebServer\obj\Debug\net8.0\CustomWebServer.genruntimeconfig.cache
+C:\Users\X\Repos\backtobasics\CustomWebServer\obj\Debug\net8.0\ref\CustomWebServer.dll
+C:\Users\X\Repos\backtobasics\CustomWebServer\obj\Debug\net8.0\CustomWebServer.sourcelink.json
